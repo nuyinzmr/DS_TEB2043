@@ -1,0 +1,137 @@
+Student_ID,First_Name,Last_Name,Age,Gender,Course,Enrollment_Date,Total_Payments
+1,John,Smith,22,M,Data Science,2022-05-15T00:00:00Z,1200
+2,Emily,Johnson,24,F,Machine Learnin,2022-03-18T00:00:00Z,1400
+3,Michael,Williams,21,M,Data Science,2022-06-25T00:00:00Z,900
+4,Sarah,Brown,23,F,Data Science,NA,1100
+5,David,Davis,20,M,Web Developmen,2021-09-10T00:00:00Z,950
+6,Jessica,Miller,25,F,Machine Learnin,2022-04-22T00:00:00Z,1300
+7,Brian,Wilson,19,M,Data Science,2022-07-02T00:00:00Z,1000
+8,Amanda,Taylor,22,F,Machine Learnin,2022-08-15T00:00:00Z,1200
+9,William,Anderson,24,M,Data Science,2022-01-10T00:00:00Z,950
+10,Olivia,Martinez,26,F,Data Science,2023-02-28T00:00:00Z,1150
+11,Williams,Smith,22,M,Data Science,2022-05-15T00:00:00Z,1200
+12,Emily,Emodi,24,F,Machine Learning,2022-03-18T00:00:00Z,1400
+13,Esther,Adams,21,M,Data Science,2022-06-25T00:00:00Z,900
+14,Sarah,Brown,23,F,Data Science,NA,1100
+15,David,Davis,20,M,Web Development,2021-09-10T00:00:00Z,950
+16,Davis,Brown,NA,M 25,Data Analytics,2005-09-23T00:00:00Z,20
+17,Anita,West,NA,F 24,4,2005-01-20T00:00:00Z,30
+18,Olawale Akintola,,NA,M 20,Web Developmet,2005-08-21T00:00:00Z,30
+19,Wike,Akintola,NA,M 25,,2006-05-22T00:00:00Z,36
+20,,Leke,NA,M 21,,2007-09-23T00:00:00Z,40
+21,Ayodele,,NA,18,Machine Learning,2008-09-23T00:00:00Z,37
+22,,,NA,25,,2009-09-22T00:00:00Z,37
+23,,,NA,25,,2010-09-21T00:00:00Z,37
+24,,,NA,,,2011-09-21T00:00:00Z,0
+25,Ethan,Miller,22,M,Data Science,2022-05-15T00:00:00Z,1200
+26,Olivia,Johnson,24,F,Machine Learning,2022-03-18T00:00:00Z,1400
+27,Noah,Williams,21,M,Data Science,2022-06-25T00:00:00Z,900
+28,Emma,Brown,23,F,Data Science,NA,1100
+29,Liam,Davis,20,M,Web Development,2021-09-10T00:00:00Z,950
+30,Ava,Miller,25,F,Machine Learning,2022-04-22T00:00:00Z,1300
+31,William,Wilson,19,M,Data Science,2022-07-02T00:00:00Z,1000
+32,Sophia,Taylor,22,F,Machine Learning,2022-08-15T00:00:00Z,1200
+33,James,Anderson,24,M,Data Science,2022-01-10T00:00:00Z,950
+34,Isabella,Martinez,26,F,Data Science,2023-02-28T00:00:00Z,1150
+35,Jackson,Murphy,21,M,Web Development,2023-06-05T00:00:00Z,1050
+36,Joseph,Williams,22,F 24,Machine Learning,2008-01-23T00:00:00Z,20
+37,Kylian,Eden,NA,M,Machine Learning,2008-01-24T00:00:00Z,20
+38,Esther,Naomi,NA,F,Machine Learning,2008-01-22T00:00:00Z,20
+39,Lay,Martin,22,M,Web Developmet,2008-01-24T00:00:00Z,20
+40,Rock,Shy,23,M,Data Analytics,NA,0
+41,Ethe,Miller,22,M,Data Science,2022-05-15T00:00:00Z,1200
+42,Olivian,Johnson,24,F,Machine Learning,2022-03-18T00:00:00Z,1400
+43,Noah,Ray,21,M,Data Science,2022-06-25T00:00:00Z,900
+44,Emma,Brown,23,F,Data Science,NA,1100
+45,Liam,Davis,20,M,Web Development,2021-09-10T00:00:00Z,950
+46,Ava,Miller,25,F,Machine Learning,2022-04-22T00:00:00Z,1300
+47,Benjamin,Thompson,20,M,Web Development,2022-11-14T00:00:00Z,1050
+48,Mia,Hernandez,23,F,Machine Learning,2022-09-20T00:00:00Z,1350
+49,Alexander,Davis,21,M,Data Science,2022-07-05T00:00:00Z,920
+50,Harper,Rodriguez,22,F,Data Science,NA,1120
+51,Daniel,White,24,M,Web Development,2021-10-30T00:00:00Z,970
+52,Emily,Murphy,21,F,Machine Learning,2023-08-02T00:00:00Z,1270
+53,Ethan,Miller,22,M,Data Science,2022-05-15T00:00:00Z,1200
+54,Olivia,Rayay,24,F,Machine Learning,2022-03-18T00:00:00Z,1400
+55,Noah,Rock,21,M,Data Science,2022-06-25T00:00:00Z,900
+56,Emma,Brown,23,F,Data Science,NA,1100
+57,Liam,Davis,20,M,Web Development,2021-09-10T00:00:00Z,950
+58,Ava,Miller,25,F,Machine Learning,2022-04-22T00:00:00Z,1300
+59,William,Wilson,19,M,Data Science,2022-07-02T00:00:00Z,1000
+60,Sophia,Taylor,22,F,Machine Learning,2022-08-15T00:00:00Z,1200
+61,James,Anderson,24,M,Data Science,2022-01-10T00:00:00Z,950
+62,Isabella,Martinez,26,F,Data Science,2023-02-28T00:00:00Z,1150
+63,May,Thompson,20,M,Web Development,2022-11-14T00:00:00Z,1050
+64,Mia,Hernandez,23,F,Machine Learning,2022-09-20T00:00:00Z,1350
+65,Alexander,Davis,21,M,Data Science,2022-07-05T00:00:00Z,920
+66,Harper,Rodriguez,22,F,Data Science,NA,1120
+67,Emily,Murphy,21,F,Machine Learning,2023-08-02T00:00:00Z,1270
+68,Ben,Thompson,20,M,Web Development,2022-11-14T00:00:00Z,1050
+69,Mia,Hernandez,23,F,Machine Learning,2022-09-20T00:00:00Z,1350
+70,Alexander,Davis,21,M,Data Science,2022-07-05T00:00:00Z,920
+71,Adeniran,Omoshola,22,F,Data Analysis,2001-07-21T00:00:00Z,50000
+72,Iwueze,Olaoluwa,23,M,Data Analysis,2010-07-20T00:00:00Z,55
+73,Faramotu Ismail,,23,M,Data Analysis,2016-07-20T00:00:00Z,60
+74,Ifarele,Adeola,23,M,Data Analysis,2030-08-22T00:00:00Z,66
+75,Folorunsho,Dada,22,M,Web Development,2001-07-22T00:00:00Z,73
+76,Ikechukwu,Victor,22,M,Web Development,2001-07-24T00:00:00Z,80
+77,Ahmed,Mohammed,23,F,Web Development,2019-07-21T00:00:00Z,88
+78,Binta,Sanni,22,F,Web Development,2001-07-21T00:00:00Z,97
+79,Chukwu,Ike,22,M,Web Development,2001-07-22T00:00:00Z,107
+80,Ola Enioluwa,,22,F,Machine Learning,2001-01-21T00:00:00Z,117
+81,Okafor,Chike,23,M,Data Analysis,2011-07-20T00:00:00Z,129
+82,Chika Nwosu,,23,F,Data Analysis,2009-08-21T00:00:00Z,142
+83,Eze Chinedu,,22,M,Data Analysis,2001-07-23T00:00:00Z,156
+84,Adaobi Ekeinde,,23,M,Data Analysis,2009-07-23T00:00:00Z,172
+85,Yusuf Ibrahim,,22,M,Cyber Security,2001-08-05T00:00:00Z,189
+86,Amaka Azikiwe,,23,M,Cyber Security,2028-07-23T00:00:00Z,208
+87,Onyeka Okonkwo,,23,f,Cyber Security,2016-07-16T00:00:00Z,229
+88,Chioma Adebayo,,22,f,Cyber Security,2001-07-22T00:00:00Z,252
+89,Ifeanyi Ekpo,,22,f,Cyber Security,2001-07-22T00:00:00Z,277
+90,Ngozi Abubakar,,20,f,Cyber Security,2001-07-24T00:00:00Z,305
+91,Abdul Nasiru,,21,f,Cyber Security,2001-07-23T00:00:00Z,336
+92,Zainab Adeyemi,,19,f,Cyber Security,2001-07-22T00:00:00Z,370
+93,Obinna Onwuka,,25,f,Data Analysis,2009-07-23T00:00:00Z,407
+94,Amina Osagie,,40,M,Data Analysis,2001-08-05T00:00:00Z,447
+95,Chinonso Uche,,23,M,Data Analysis,2028-07-23T00:00:00Z,492
+96,Femi Abdullahi,,22,M,Data Analysis,2001-07-23T00:00:00Z,541
+97,Halima Bakare,,23,M,Data Analysis,2017-07-22T00:00:00Z,595
+98,Chibuzo Mohammed,,21,M,Data Analysis,2001-09-20T00:00:00Z,655
+99,Oluchi Iwuoha,,22,F,Machine Learning,2031-01-21T00:00:00Z,721
+100,Emeka Anikulapo,,19,M,Data Analysis,2019-07-24T00:00:00Z,793
+101,Hadiza Ogundipe,,18,M,Data Analysis,2006-08-22T00:00:00Z,872
+102,Nneka Nwachukwu,,4,M,Web Develpment,2001-08-23T00:00:00Z,959
+103,Adeola Okoro,,NA,M,Web Develpment,2012-07-23T00:00:00Z,1
+104,Idris Ibrahim,,23,M,Web Develpment,2031-08-24T00:00:00Z,1
+105,Chinyere Adeyemi,,23,M,,2007-10-22T00:00:00Z,1
+106,Umar Abdullahi,,22,M,Web Develpment,2001-07-24T00:00:00Z,1
+107,Nkem Adebayo,,20,M,Web Develpment,2021-07-24T00:00:00Z,1
+108,Ayodele Osagie,,22,F,Machine Learning,2030-01-21T00:00:00Z,1
+109,Chiwendu Ekpo,,21,M,Machine Learning,2030-01-20T00:00:00Z,1
+110,Fatima Azikiwe,,22,F,Data Analysis,2001-07-21T00:00:00Z,2
+111,Chukwudi Ekeinde,,19,M,Cyber Security,2028-08-22T00:00:00Z,2
+112,Kemi Uche,,18,M,Cyber Security,2006-07-22T00:00:00Z,2
+113,Jide Bakare,,18,M,Cyber Security,2002-09-23T00:00:00Z,2
+114,Adaobi Iwuoha,,19,M,Cyber Security,2006-08-22T00:00:00Z,3
+115,Suleiman Mohammed,,23,M,Cyber Security,2025-09-20T00:00:00Z,3
+116,Ifeoluwa Anikulapo,,23,M,Cyber Security,2031-08-23T00:00:00Z,3
+117,Chukwudi,,22,M,Data Science,2022-05-15T00:00:00Z,1200
+118,Ngozi,Eze,24,F,Machine Learning,2022-03-18T00:00:00Z,1400
+119,Ifeoluwa,Adewale,21,M,Data Science,2022-06-25T00:00:00Z,900
+120,Ada,Adeleke,23,F,Data Science,NA,1100
+121,Kehinde,Bakare,20,M,Web Development,2021-09-10T00:00:00Z,950
+122,Amara,Okonkwo,25,F,Machine Learning,2022-04-22T00:00:00Z,1300
+123,Uche,Adebayo,19,M,Data Science,2022-07-02T00:00:00Z,1000
+124,Nneka,Nwachukwu,22,F,Machine Learning,2022-08-15T00:00:00Z,1200
+125,Emeka,Okafor,24,M,Data Science,2022-01-10T00:00:00Z,950
+126,Chinyere,Nwosu,26,F,Data Science,2023-02-28T00:00:00Z,1150
+127,Obinna,Onyekachi,20,M,Web Development,2022-11-14T00:00:00Z,1050
+128,Chinwe,Okoye,23,F,Machine Learning,2022-09-20T00:00:00Z,1350
+129,Ugochukwu,Okafor,21,M,Data Science,2022-07-05T00:00:00Z,920
+130,Ijeoma,Uzoma,22,F,Data Science,NA,1120
+131,Obi,Okonkwo,24,M,Web Development,2021-10-30T00:00:00Z,970
+132,Amina,Adekunle,21,F,Machine Learning,2022-08-12T00:00:00Z,1270
+133,Ibrahim,Okafor,22,M,Data Science,2022-02-03T00:00:00Z,950
+134,Zainab,Abiodun,23,F,Web Development,2022-07-21T00:00:00Z,1050
+135,Nasiru,Adebayo,24,M,Data Science,2022-05-09T00:00:00Z,1120
+136,Aisha,Okonkwo,25,F,Machine Learning,2023-01-15T00:00:00Z,1300
